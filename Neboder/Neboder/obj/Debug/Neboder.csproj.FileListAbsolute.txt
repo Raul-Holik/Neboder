@@ -1,0 +1,8 @@
+C:\Users\Osoba\Documents\Skola\Neboder\Neboder\bin\Debug\Neboder.exe.config
+C:\Users\Osoba\Documents\Skola\Neboder\Neboder\bin\Debug\Neboder.exe
+C:\Users\Osoba\Documents\Skola\Neboder\Neboder\bin\Debug\Neboder.pdb
+C:\Users\Osoba\Documents\Skola\Neboder\Neboder\obj\Debug\Neboder.csproj.AssemblyReference.cache
+C:\Users\Osoba\Documents\Skola\Neboder\Neboder\obj\Debug\Neboder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Osoba\Documents\Skola\Neboder\Neboder\obj\Debug\Neboder.csproj.CoreCompileInputs.cache
+C:\Users\Osoba\Documents\Skola\Neboder\Neboder\obj\Debug\Neboder.exe
+C:\Users\Osoba\Documents\Skola\Neboder\Neboder\obj\Debug\Neboder.pdb
